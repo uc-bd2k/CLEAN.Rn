@@ -1,0 +1,11 @@
+Package: CLEAN.Rn
+Type: Package
+Title: Data package to provide functional categories to the CLEAN package.
+Version: 1.0.4
+Date: 2015-06-26
+Author: Johannes Freudenberg, Mario Medvedovic
+Maintainer: Mario Medvedovic <Mario.Medvedovic@uc.edu>
+Description: Provide functional specific to Homo sapiens to the CLEAN package. See manual for details.
+License: GPL>=2
+LazyLoad: yes
+Depends: 
